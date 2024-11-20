@@ -42,9 +42,9 @@ This project implements **Dijkstra's Algorithm** to solve the **Single Destinati
 ## How to Run
 1. Compile the files:
    ```bash
-   gcc -c mySRN_F.c
-   gcc -c mySRN_C.c
-   gcc -o dijkstra mySRN_F.o mySRN_C.o -lm
+   gcc -c PES1UG19CS305_F.c
+   gcc -c PES1UG19CS305_C.c
+   gcc -o dijkstra PES1UG19CS305_F.o PES1UG19CS305_C.o -lm
    ```
 2. Execute the program
     ./dijkstra
